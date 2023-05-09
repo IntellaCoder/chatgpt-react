@@ -3,7 +3,7 @@
 A web application that allows users to interact with OpenAI's GPT-3 language model through a simple and user-friendly interface.
 This app is for demo purpose to test OpenAI API and may contain issues/bugs.
 
-If you are looking for a simple HTML/vanilla JavaScript version, check [here](https://github.com/FullAICoder/chatgpt-web-application)
+If you are looking for a simple HTML/vanilla JavaScript version, check [here](https://github.com/FullAICoder/chatgpt-web)
 
 ![Demo Gif](/client/src/img/demo2.gif)
 
